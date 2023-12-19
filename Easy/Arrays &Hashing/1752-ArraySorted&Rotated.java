@@ -1,6 +1,6 @@
 class Solution {
     public boolean check(int[] nums) {
-        //lets do it by TWO SORTED SUBARRAY or 1 SORTED ARRAY 
+         //lets do it by checking if there are TWO SORTED SUBARRAY or 1 SORTED ARRAY
         int cnt=0; //to keep track of number of break points 
         //if the array is sorted and rotated there is only one break point 
 
