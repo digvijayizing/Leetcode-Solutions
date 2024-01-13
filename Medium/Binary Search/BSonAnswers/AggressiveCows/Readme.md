@@ -1,3 +1,5 @@
+https://www.codingninjas.com/studio/problems/aggressive-cows_1082559?leftPanelTabValue=SUBMISSION
+
 Problem statement
 You are given an array 'arr' consisting of 'n' integers which denote the position of a stall.
 
