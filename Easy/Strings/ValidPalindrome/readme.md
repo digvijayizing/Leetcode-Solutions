@@ -1,3 +1,14 @@
+            *** LEARNED ABOUT DIFFERENT INBUILT FUNCTIONS LIKE -
+islower	Check if character is lowercase letter (function)
+isalpha	Check if character is alphabetic (function)
+toupper	Convert lowercase letter to uppercase (function)
+tolower	Convert uppercase letter to lowercase (function) 
+isdigit	Check if character is decimal digit (function)
+ispunct	Check if character is punctuation (function)
+isspace	Check if character is space (function)
+
+
+
 125. Valid Palindrome
 Solved
 Easy
